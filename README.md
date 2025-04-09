@@ -1,2 +1,1 @@
 # Argocd
-for practice 
